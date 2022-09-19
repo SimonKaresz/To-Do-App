@@ -1,0 +1,22 @@
+nav{
+    padding: 40px;
+    background-color: rgba(100,100,100,.15);
+    backdrop-filter: blur(5px);
+}
+
+nav a{
+    font-size: 2rem;
+    color: #ecedf4;
+    text-shadow: 2px 2px 5px #474e81,2px 2px 4px #1a1a1a;
+}
+
+
+footer a{
+    color: rgba(40,40,40,8);
+    font-size: 1.4rem;
+    margin-left: 20px;
+}
+
+footer a:hover{
+    color: #3870d0;
+}
